@@ -1,0 +1,37 @@
+{
+  "n_test": 302,
+  "precision": 0.9521,
+  "recall": 0.9205,
+  "f1": 0.936,
+  "threshold": 0.42,
+  "confusion_matrix": {
+    "TN": 144,
+    "FP": 7,
+    "FN": 12,
+    "TP": 139
+  },
+  "recall_by_family": {
+    "kotak": 0.947,
+    "mal": 0.957,
+    "zaibal": 0.941,
+    "other": 0.875,
+    "eshak": 1.0,
+    "chort": 0.889,
+    "blya": 1.0,
+    "nahui": 1.0,
+    "sheshe": 0.833,
+    "pizd": 0.667,
+    "am": 1.0,
+    "govno": 0.667,
+    "sik": 1.0,
+    "huy": 0.5
+  },
+  "stress_set": {
+    "n": 19,
+    "accuracy": 0.842
+  },
+  "clean_test_texts_with_mal": {
+    "n": 3,
+    "false_positives": 0
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "raw_rows": 3061,
+  "label_fixes": 2,
+  "rows_with_pii_scrubbed": 15,
+  "dropped_conflicting_duplicates": 0,
+  "dropped_exact_duplicates": 33,
+  "n_near_dup_groups": 2854,
+  "final_rows": 3027,
+  "seed": 42,
+  "train": {
+    "n": 2423,
+    "label0": 1215,
+    "label1": 1208
+  },
+  "val": {
+    "n": 302,
+    "label0": 151,
+    "label1": 151
+  },
+  "test": {
+    "n": 302,
+    "label0": 151,
+    "label1": 151
+  }
+}

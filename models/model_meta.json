@@ -1,0 +1,12 @@
+{
+  "best_params": {
+    "C": 30.0,
+    "char_ngram_max": 4,
+    "family_alpha": 0.5,
+    "max_words": 50
+  },
+  "threshold": 0.42,
+  "seed": 42,
+  "sklearn": "1.9.1",
+  "python": "3.12.3"
+}
